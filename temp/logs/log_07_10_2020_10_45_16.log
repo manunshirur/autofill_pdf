@@ -1,0 +1,14 @@
+07/10/2020 10:45:16 AM:  INFO Started read_inpt()
+07/10/2020 10:45:16 AM:  INFO started generate_NOA_GA_CSV()
+07/10/2020 10:45:16 AM:  INFO Started inspect_pdf() function, Arg: ./static/pdfs/NOA GA.pdf
+07/10/2020 10:45:16 AM:  INFO Successful PDF inspection
+07/10/2020 10:45:16 AM:  INFO Started fill_pdf() function, Arg: ./input/NOA_GA/ShirurNagabhushana.csv
+07/10/2020 10:45:16 AM:  INFO Successful PDF Fill
+07/10/2020 10:45:16 AM:  INFO Now Deleting the fields.json file
+07/10/2020 10:45:16 AM:  INFO Successfully Deleted fields.json file
+07/10/2020 10:45:16 AM:  INFO iterating ./filled/ directory to rename the output file
+07/10/2020 10:45:16 AM:  INFO Started copy_to_archive() with filename: ./input/NOA_GA/ShirurNagabhushana.csv
+07/10/2020 10:45:16 AM:  INFO completed copy_to_archive()
+07/10/2020 10:45:16 AM:  INFO Started copy_to_archive() with filename: ./input/NOA_GA/RPT data for Manu.xlsx
+07/10/2020 10:45:16 AM:  INFO completed copy_to_archive()
+07/10/2020 10:45:16 AM:  INFO Successfully Completed!!!
